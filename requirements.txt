@@ -3,3 +3,4 @@ fuzzywuzzy
 python-Levenshtein
 nltk
 flask-cors
+gunicorn
