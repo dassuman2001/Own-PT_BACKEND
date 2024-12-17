@@ -1,0 +1,5 @@
+flask
+fuzzywuzzy
+python-Levenshtein
+nltk
+flask-cors

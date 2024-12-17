@@ -1,0 +1,462 @@
+2024-12-17 01:12:02,143 - INFO - Dataset loaded successfully.
+2024-12-17 01:12:02,331 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 01:12:02,331 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 01:12:02,332 - INFO -  * Restarting with stat
+2024-12-17 01:12:03,804 - INFO - Dataset loaded successfully.
+2024-12-17 01:12:03,856 - WARNING -  * Debugger is active!
+2024-12-17 01:12:03,859 - INFO -  * Debugger PIN: 103-722-600
+2024-12-17 01:14:17,280 - INFO - Received query: What is your name?
+2024-12-17 01:14:17,284 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:14:17,287 - INFO - Matched query 'What is your name?' to 'What is your full name?' with score 95.
+2024-12-17 01:14:17,288 - INFO - 127.0.0.1 - - [17/Dec/2024 01:14:17] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:14:26,925 - INFO - Received query: What is your hobby?
+2024-12-17 01:14:26,928 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:14:26,936 - INFO - Matched query 'What is your hobby?' to 'What languages do you speak?' with score 86.
+2024-12-17 01:14:26,936 - INFO - 127.0.0.1 - - [17/Dec/2024 01:14:26] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:14:34,756 - INFO - Received query:  hobby?
+2024-12-17 01:14:34,757 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:14:34,760 - INFO - Matched query ' hobby?' to 'What are your hobbies?' with score 72.
+2024-12-17 01:14:34,760 - INFO - 127.0.0.1 - - [17/Dec/2024 01:14:34] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:27:23,619 - INFO - 127.0.0.1 - - [17/Dec/2024 01:27:23] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:27:32,484 - INFO - 127.0.0.1 - - [17/Dec/2024 01:27:32] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:29:08,233 - INFO - Dataset loaded successfully.
+2024-12-17 01:29:08,345 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 01:29:08,345 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 01:29:08,348 - INFO -  * Restarting with stat
+2024-12-17 01:29:09,630 - INFO - Dataset loaded successfully.
+2024-12-17 01:29:09,685 - WARNING -  * Debugger is active!
+2024-12-17 01:29:09,691 - INFO -  * Debugger PIN: 103-722-600
+2024-12-17 01:30:35,697 - INFO - 127.0.0.1 - - [17/Dec/2024 01:30:35] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:30:46,572 - INFO - Received query:  hobby?
+2024-12-17 01:30:46,574 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:30:46,577 - INFO - Matched query ' hobby?' to 'What are your hobbies?' with score 72.
+2024-12-17 01:30:46,577 - INFO - 127.0.0.1 - - [17/Dec/2024 01:30:46] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:30:53,144 - INFO - Received query:  song?
+2024-12-17 01:30:53,145 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:30:53,148 - WARNING - No good match found for query:  song?
+2024-12-17 01:30:53,148 - INFO - 127.0.0.1 - - [17/Dec/2024 01:30:53] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:31:27,632 - INFO - 127.0.0.1 - - [17/Dec/2024 01:31:27] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:32:43,153 - INFO -  * Detected change in 'C:\\Users\\Suman\\Desktop\\Own-PT\\app.py', reloading
+2024-12-17 01:32:43,300 - INFO -  * Restarting with stat
+2024-12-17 01:32:44,766 - INFO - Dataset loaded successfully.
+2024-12-17 01:32:44,836 - WARNING -  * Debugger is active!
+2024-12-17 01:32:44,838 - INFO -  * Debugger PIN: 103-722-600
+2024-12-17 01:32:56,660 - INFO - 127.0.0.1 - - [17/Dec/2024 01:32:56] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:32:56,664 - INFO - 127.0.0.1 - - [17/Dec/2024 01:32:56] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-17 01:33:06,839 - INFO - Dataset loaded successfully.
+2024-12-17 01:33:06,899 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 01:33:06,899 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 01:33:06,900 - INFO -  * Restarting with stat
+2024-12-17 01:33:08,182 - INFO - Dataset loaded successfully.
+2024-12-17 01:33:08,235 - WARNING -  * Debugger is active!
+2024-12-17 01:33:08,237 - INFO -  * Debugger PIN: 103-722-600
+2024-12-17 01:33:17,560 - INFO - Received query:  name?
+2024-12-17 01:33:17,562 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:33:17,567 - INFO - Matched query ' name?' to 'What is your full name?' with score 90.
+2024-12-17 01:33:17,567 - INFO - 127.0.0.1 - - [17/Dec/2024 01:33:17] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:33:44,583 - INFO - 127.0.0.1 - - [17/Dec/2024 01:33:44] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:33:44,587 - INFO - 127.0.0.1 - - [17/Dec/2024 01:33:44] "[31m[1mPOST /chat HTTP/1.1[0m" 400 -
+2024-12-17 01:44:08,165 - INFO - 127.0.0.1 - - [17/Dec/2024 01:44:08] "OPTIONS /chat HTTP/1.1" 200 -
+2024-12-17 01:44:08,168 - INFO - Received query: hello
+2024-12-17 01:44:08,173 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:44:08,180 - INFO - Matched query 'hello' to 'Hello?' with score 100.
+2024-12-17 01:44:08,181 - INFO - 127.0.0.1 - - [17/Dec/2024 01:44:08] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:44:13,031 - INFO - Received query:  name?
+2024-12-17 01:44:13,033 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:44:13,038 - INFO - Matched query ' name?' to 'What is your full name?' with score 90.
+2024-12-17 01:44:13,038 - INFO - 127.0.0.1 - - [17/Dec/2024 01:44:13] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:49:28,004 - INFO - Received query: hello
+2024-12-17 01:49:28,007 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:49:28,013 - INFO - Matched query 'hello' to 'Hello?' with score 100.
+2024-12-17 01:49:28,015 - INFO - 127.0.0.1 - - [17/Dec/2024 01:49:28] "POST /chat HTTP/1.1" 200 -
+2024-12-17 01:49:42,051 - INFO - Received query: what is your name 
+2024-12-17 01:49:42,054 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:49:42,061 - INFO - Matched query 'what is your name ' to 'What is your full name?' with score 95.
+2024-12-17 01:49:42,061 - INFO - 127.0.0.1 - - [17/Dec/2024 01:49:42] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:06:25,783 - INFO - Received query: Hello
+2024-12-17 02:06:25,792 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:06:25,808 - INFO - Matched query 'Hello' to 'Hello?' with score 100.
+2024-12-17 02:06:25,812 - INFO - 127.0.0.1 - - [17/Dec/2024 02:06:25] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:07:13,470 - INFO - Received query: hey
+2024-12-17 02:07:13,475 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:07:13,483 - WARNING - No good match found for query: hey
+2024-12-17 02:07:13,483 - INFO - 127.0.0.1 - - [17/Dec/2024 02:07:13] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:08:22,813 - INFO - Received query: hey
+2024-12-17 02:08:22,820 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:08:22,827 - WARNING - No good match found for query: hey
+2024-12-17 02:08:22,827 - INFO - 127.0.0.1 - - [17/Dec/2024 02:08:22] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:08:54,252 - INFO - Dataset loaded successfully.
+2024-12-17 02:08:54,344 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-17 02:08:54,345 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-17 02:08:54,347 - INFO -  * Restarting with stat
+2024-12-17 02:08:55,594 - INFO - Dataset loaded successfully.
+2024-12-17 02:08:55,647 - WARNING -  * Debugger is active!
+2024-12-17 02:08:55,650 - INFO -  * Debugger PIN: 103-722-600
+2024-12-17 02:09:01,135 - INFO - Received query: hey
+2024-12-17 02:09:01,137 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:09:01,146 - INFO - Matched query 'hey' to 'Hey?' with score 100.
+2024-12-17 02:09:01,147 - INFO - 127.0.0.1 - - [17/Dec/2024 02:09:01] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:10:24,361 - INFO - Received query: how are you
+2024-12-17 02:10:24,364 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:10:24,369 - INFO - Matched query 'how are you' to 'Hi, how are you?' with score 95.
+2024-12-17 02:10:24,370 - INFO - 127.0.0.1 - - [17/Dec/2024 02:10:24] "POST /chat HTTP/1.1" 200 -
+2024-12-17 02:10:31,775 - INFO - Received query: good
+2024-12-17 02:10:31,777 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 02:10:31,782 - INFO - Matched query 'good' to 'What’s your favorite food?' with score 68.
+2024-12-17 02:10:31,783 - INFO - 127.0.0.1 - - [17/Dec/2024 02:10:31] "POST /chat HTTP/1.1" 200 -

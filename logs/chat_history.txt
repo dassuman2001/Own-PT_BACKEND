@@ -1,0 +1,57 @@
+You: What is your name?
+Chatbot: My full name is Suman Das.
+
+You: Hello
+Chatbot: Sorry, I don't understand. Can you rephrase?
+
+You: whatis your name
+Chatbot: I was born on October 30, 2001.
+
+You: whatis your name
+Chatbot: I was born on October 30, 2001.
+
+You: what is your name
+Chatbot: My full name is Suman Das.
+
+You: name
+Chatbot: My full name is Suman Das.
+
+You: born
+Chatbot: Sorry, I don't understand. Can you rephrase?
+
+You: father name
+Chatbot: My full name is Suman Das.
+
+You: what is your father name
+Chatbot: My father’s name is Nirmal Das.
+
+You: my mother name
+Chatbot: My full name is Suman Das.
+
+You: Mother's name
+Chatbot: My full name is Suman Das.
+
+You: what is your mother name
+Chatbot: My mother’s name is Sonali Das.
+
+You: your hobbies
+Chatbot: I enjoy playing the guitar, singing, cricket, and online gaming.
+
+You: weigjt
+Chatbot: Sorry, I don't understand. Can you rephrase?
+
+You: weight
+Chatbot: 5.7 Feet/ 173 CM
+
+You: type
+Chatbot: Fit and bulky with 68Kg weight.
+
+You: hello
+Chatbot: Sorry, I don't understand. Can you rephrase?
+
+You: music
+Chatbot: I enjoy classical, rock, and acoustic guitar compositions.
+
+You: music taste
+Chatbot: I enjoy classical, rock, and acoustic guitar compositions.
+

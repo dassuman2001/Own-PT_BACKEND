@@ -1,0 +1,491 @@
+2024-12-17 00:46:04,425 - INFO - Dataset loaded successfully.
+2024-12-17 00:46:04,426 - INFO - Chatbot started.
+2024-12-17 00:46:40,762 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:46:40,767 - INFO - Matched query 'What is your name?' to 'What is your full name?' with score 95.
+2024-12-17 00:46:40,769 - INFO - Saved chat history: What is your name? -> My full name is Suman Das.
+2024-12-17 00:46:48,242 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:46:48,247 - WARNING - No good match found for query: Hello
+2024-12-17 00:46:48,248 - INFO - Saved chat history: Hello -> Sorry, I don't understand. Can you rephrase?
+2024-12-17 00:47:04,393 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:04,395 - INFO - Matched query 'whatis your name' to 'What is your date of birth?' with score 86.
+2024-12-17 00:47:04,395 - INFO - Saved chat history: whatis your name -> I was born on October 30, 2001.
+2024-12-17 00:47:12,479 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:12,484 - INFO - Matched query 'whatis your name' to 'What is your date of birth?' with score 86.
+2024-12-17 00:47:12,486 - INFO - Saved chat history: whatis your name -> I was born on October 30, 2001.
+2024-12-17 00:47:17,113 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:17,116 - INFO - Matched query 'what is your name' to 'What is your full name?' with score 95.
+2024-12-17 00:47:17,116 - INFO - Saved chat history: what is your name -> My full name is Suman Das.
+2024-12-17 00:47:24,369 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:24,372 - INFO - Matched query 'name' to 'What is your full name?' with score 90.
+2024-12-17 00:47:24,374 - INFO - Saved chat history: name -> My full name is Suman Das.
+2024-12-17 00:47:30,153 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:30,156 - WARNING - No good match found for query: born
+2024-12-17 00:47:30,157 - INFO - Saved chat history: born -> Sorry, I don't understand. Can you rephrase?
+2024-12-17 00:47:40,931 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:40,934 - INFO - Matched query 'father name' to 'What is your full name?' with score 86.
+2024-12-17 00:47:40,935 - INFO - Saved chat history: father name -> My full name is Suman Das.
+2024-12-17 00:47:50,344 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:47:50,347 - INFO - Matched query 'what is your father name' to 'What is your father’s name?' with score 95.
+2024-12-17 00:47:50,347 - INFO - Saved chat history: what is your father name -> My father’s name is Nirmal Das.
+2024-12-17 00:48:57,188 - ERROR - An unexpected error occurred: 
+2024-12-17 00:48:59,520 - INFO - Chatbot session terminated by user.
+2024-12-17 00:49:03,724 - INFO - Dataset loaded successfully.
+2024-12-17 00:49:03,724 - INFO - Chatbot started.
+2024-12-17 00:49:10,565 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:49:10,569 - INFO - Matched query 'my mother name' to 'What is your full name?' with score 86.
+2024-12-17 00:49:10,569 - INFO - Saved chat history: my mother name -> My full name is Suman Das.
+2024-12-17 00:49:18,362 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:49:18,365 - INFO - Matched query 'Mother's name' to 'What is your full name?' with score 86.
+2024-12-17 00:49:18,366 - INFO - Saved chat history: Mother's name -> My full name is Suman Das.
+2024-12-17 00:49:30,802 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:49:30,803 - INFO - Matched query 'what is your mother name' to 'What is your mother’s name?' with score 95.
+2024-12-17 00:49:30,803 - INFO - Saved chat history: what is your mother name -> My mother’s name is Sonali Das.
+2024-12-17 00:49:40,088 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:49:40,094 - INFO - Matched query 'your hobbies' to 'What are your hobbies?' with score 90.
+2024-12-17 00:49:40,095 - INFO - Saved chat history: your hobbies -> I enjoy playing the guitar, singing, cricket, and online gaming.
+2024-12-17 00:56:32,751 - INFO - Chatbot session terminated by user.
+2024-12-17 00:56:36,056 - INFO - Dataset loaded successfully.
+2024-12-17 00:56:36,057 - INFO - Chatbot started.
+2024-12-17 00:56:39,916 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:56:39,919 - WARNING - No good match found for query: weigjt
+2024-12-17 00:56:39,920 - INFO - Saved chat history: weigjt -> Sorry, I don't understand. Can you rephrase?
+2024-12-17 00:56:43,616 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:56:43,618 - INFO - Matched query 'weight' to 'What is your height?' with score 75.
+2024-12-17 00:56:43,618 - INFO - Saved chat history: weight -> 5.7 Feet/ 173 CM
+2024-12-17 00:56:52,103 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:56:52,108 - INFO - Matched query 'type' to 'What is your body type?' with score 90.
+2024-12-17 00:56:52,109 - INFO - Saved chat history: type -> Fit and bulky with 68Kg weight.
+2024-12-17 00:57:12,808 - INFO - Chatbot session terminated by user.
+2024-12-17 00:57:15,801 - INFO - Dataset loaded successfully.
+2024-12-17 00:57:15,801 - INFO - Chatbot started.
+2024-12-17 00:57:42,037 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 00:57:42,041 - WARNING - No good match found for query: hello
+2024-12-17 00:57:42,043 - INFO - Saved chat history: hello -> Sorry, I don't understand. Can you rephrase?
+2024-12-17 01:02:17,046 - INFO - Chatbot session terminated by user.
+2024-12-17 01:02:19,728 - INFO - Dataset loaded successfully.
+2024-12-17 01:02:19,729 - INFO - Chatbot started.
+2024-12-17 01:02:25,368 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:02:25,371 - INFO - Matched query 'music' to 'What music do you like?' with score 90.
+2024-12-17 01:02:25,371 - INFO - Saved chat history: music -> I enjoy classical, rock, and acoustic guitar compositions.
+2024-12-17 01:02:32,148 - ERROR - Error in preprocessing query: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\Suman/nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\share\\nltk_data'
+    - 'C:\\Users\\Suman\\Desktop\\Own-PT\\ownpt_env\\lib\\nltk_data'
+    - 'C:\\Users\\Suman\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2024-12-17 01:02:32,156 - INFO - Matched query 'music taste' to 'What music do you like?' with score 86.
+2024-12-17 01:02:32,158 - INFO - Saved chat history: music taste -> I enjoy classical, rock, and acoustic guitar compositions.
+2024-12-17 01:11:43,740 - INFO - Chatbot session terminated by user.
